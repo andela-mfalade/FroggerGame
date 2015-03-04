@@ -1,2 +1,4 @@
-# FroggerGame
-A fun game implemented using js
+Frogger Game
+===============================
+
+Fun Fun Fun!
