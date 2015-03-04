@@ -215,7 +215,7 @@ var key       = new Bonus('images/key.png', -690, 240 , 3, 50);
 var heart     = new Bonus('images/heart.png', -1110, 80, 3, 500);
 var blueGem   = new Bonus('images/blue.png', -2915, 145, 2, 200);
 var star      = new Bonus('images/star.png', -10015, 80, 4, 1000);
-var oops      = new Bonus('images/rock.png', -2015, 145, 2,-5000);
+var oops      = new Bonus('images/Rock.png', -2015, 145, 2,-5000);
 var greenGem  = new Bonus('images/green.png', -1015, 230, 2, 300);
 var orangeGem = new Bonus('images/orange.png', -2222, 65, 2, 100);
 
